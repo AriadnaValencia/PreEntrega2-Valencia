@@ -1,0 +1,8 @@
+.brand {
+    padding: 10px; /* Ajusta el relleno según sea necesario */
+  }
+  
+  .brand img {
+    max-height: 50px; /* Ajusta la altura máxima según sea necesario */
+  }
+  
